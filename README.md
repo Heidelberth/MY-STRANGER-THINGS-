@@ -9,8 +9,6 @@
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
 
-*[Insignias](#insignias)
-
 *[Índice](#índice)
 
 *[Descripción del proyecto](#descripción-del-proyecto)
@@ -21,8 +19,6 @@
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-*[Acceso al proyecto](#acceso-proyecto)
-
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
 *[Personas Contribuyentes](#personas-contribuyentes)
@@ -32,25 +28,36 @@
 *[Conclusión](#conclusión)
 
 
-Descripción
+
+*[Descripción del proyecto](#descripción-del-proyecto)
 
 La empresa INNOVA COLOMBIA, tendrá como nuevo proyecto, el nuevo diseño de la página en NETFLIX de la serie STRANGER THINGS, esto tiene como objetivo implementar nuevas ideas y metodologías agiles de desarrollo de software las cuales en la actualidad han generado mejores resultados en estos programas de inteligencia sistemática que son la nueva ola de presentación de entretenimiento para las generaciones actuales y antiguas, por tal razón el desarrollo de estos métodos agiles como lo es el método Scrum genera muchas facilidades como para los involucrados como los beneficiarios.
 
-Introducción
+
+*[Introdución](#introducción)
 
 La empresa colombiana INNOVA COLOMBIA es una de las grandes empresas solucionadoras de proyectos de software, durante sus 15 años en el mercado de procesos de desarrollo de software en la cual cuenta con personal altamente calificado para ejecución de proyectos, implementando metodologías agiles actuales como lo son Scrum o Kanban, metodologías más utilizadas en el mercado de desarrollo de programas de software para las empresas estos por el gran resultado que presentan ante las respuestas de los requerimiento de los clientes y la satisfacción de los desarrolladores.
 
-Estado 
+
+*[Estado del proyecto](#Estado-del-proyecto)
  
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
 
+* [Licencia](#licencia)
 
 ![image](https://user-images.githubusercontent.com/112735999/191873204-a43f0f6e-ef72-4f2c-bc9c-b315298a49e1.png)
 
 
+*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+
+En la sigente URL, podras ver el video donde te explicara  cada una de las características implementadas en nuestro proyecto STRANGER THINGS.
+
+Aqui:
 
 
+
+*[Tecnologías utilizadas](#tecnologías-utilizadas)
 
 
