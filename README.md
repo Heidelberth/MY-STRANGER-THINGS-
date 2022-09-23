@@ -5,17 +5,52 @@
 ![image](https://user-images.githubusercontent.com/112735999/191872746-a5b02b02-a98d-4cc2-8233-703096268f14.png)
 
   
+Índice
+
+*[Título e imagen de portada](#Título-e-imagen-de-portada)
+
+*[Insignias](#insignias)
+
+*[Índice](#índice)
+
+*[Descripción del proyecto](#descripción-del-proyecto)
+
+*[Estado del proyecto](#Estado-del-proyecto)
+
+*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+
+*[Acceso al proyecto](#acceso-proyecto)
+
+*[Tecnologías utilizadas](#tecnologías-utilizadas)
+
+*[Personas Contribuyentes](#personas-contribuyentes)
+
+*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+
+* [Licencia](#licencia)
+
+*[Conclusión](#conclusión)
+
+
+Descripción
 
 La empresa INNOVA COLOMBIA, tendrá como nuevo proyecto, el nuevo diseño de la página en NETFLIX de la serie STRANGER THINGS, esto tiene como objetivo implementar nuevas ideas y metodologías agiles de desarrollo de software las cuales en la actualidad han generado mejores resultados en estos programas de inteligencia sistemática que son la nueva ola de presentación de entretenimiento para las generaciones actuales y antiguas, por tal razón el desarrollo de estos métodos agiles como lo es el método Scrum genera muchas facilidades como para los involucrados como los beneficiarios.
 
-Licenciamiento
-Sobre la Ley 603 del 2000 sobre el software legal, todas las empresas están obligadas a realizar su respectivo informe de gestión, que mostrara su evaluación de los negocios y actividad económica, administrativas y jurídica de la sociedad. Como a su vez tendrá cumplimientos con las normativas, propiedad intelectual y derechos de autor por parte de los involucrados.
+Introducción
+
+La empresa colombiana INNOVA COLOMBIA es una de las grandes empresas solucionadoras de proyectos de software, durante sus 15 años en el mercado de procesos de desarrollo de software en la cual cuenta con personal altamente calificado para ejecución de proyectos, implementando metodologías agiles actuales como lo son Scrum o Kanban, metodologías más utilizadas en el mercado de desarrollo de programas de software para las empresas estos por el gran resultado que presentan ante las respuestas de los requerimiento de los clientes y la satisfacción de los desarrolladores.
+
+Estado 
+ 
+<h4 align="center">
+:construction: Proyecto en construcción :construction:
+</h4>
 
 
 ![image](https://user-images.githubusercontent.com/112735999/191873204-a43f0f6e-ef72-4f2c-bc9c-b315298a49e1.png)
 
 
 
-Indice
+
 
 
