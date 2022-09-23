@@ -109,3 +109,4 @@ ARQUITECTURA 3 CAPAS. (2014, 23 febrero). PROGRAMACIÓN WEB. Recuperado 23 de se
 https://images.app.goo.gl/DswRACTid7tETwHV7. (s. f.).
 
 
+https://www.elespectador.com/resizer/lXSUASBqHHs7najMSKimRyn2MgM=/1200x675/filters:format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/FQREIWXQNBEGTMXVV2E26YWT5U.jpg. (s. f.).
