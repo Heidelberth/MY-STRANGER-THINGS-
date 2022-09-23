@@ -27,6 +27,8 @@
 
 *[Conclusión](#conclusión)
 
+*[Bibliografía](#bibliografía)
+
 
 
 
@@ -87,5 +89,23 @@ Heidelberth Rocha Torres
 
 *[Conclusión](#conclusión)
 
-La implementación de nuevas tecnologias, metodología, son unos de los pilares en las nuevas propuestas que se implementan hoy para la realización d proyectos como lo son la creación de nuevas paginas web, donde cada usuario puede 
-interactuar, como lo es esta propuesta que muestra y dirije a la utilización de estros metodo como lo son los metodos agiles, 
+La implementación de nuevas tecnologias, metodología, son unos de los pilares en las nuevas propuestas que se implementan hoy para la realización de proyectos como lo son la creación de nuevas paginas web, donde cada usuario puede interactuar bajo sus requerimentos. siendo estos unos de los fundamentos a desarrollar se puede decir que la demanda de requerimientos se combierte en el efoque del desarrollo del software desde alli empezamos a evaluar cada implementación de metodologias, arquitectura, esto con el fin de presentar y dar un impacto a todos aqueyos involucrados.
+
+*[Bibliografía](#bibliografía)
+
+[1] PALACIO, M. A. R. T. A. (2022). SCRUM MASTER TEMARIO TONCAL 1. VERSION 3.0.
+
+
+M.I.G.U.E.L. (2016, 22 abril). Los 11
+Pasos para Implementar metodología SCRUM. Proagilist.
+
+
+GARRIDO SOTOMAYOR, S. A. N. D. R.
+A.	(2021, 9 diciembre). Las metodologías ágiles más
+
+
+ARQUITECTURA 3 CAPAS. (2014, 23 febrero). PROGRAMACIÓN WEB. Recuperado 23 de septiembre de 2022, de https://edgarbc.wordpress.com/arquitectura/
+
+https://images.app.goo.gl/DswRACTid7tETwHV7. (s. f.).
+
+
