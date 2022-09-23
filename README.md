@@ -85,4 +85,7 @@ Desarrollador
 
 Heidelberth Rocha Torres
 
+*[Conclusión](#conclusión)
 
+La implementación de nuevas tecnologias, metodología, son unos de los pilares en las nuevas propuestas que se implementan hoy para la realización d proyectos como lo son la creación de nuevas paginas web, donde cada usuario puede 
+interactuar, como lo es esta propuesta que muestra y dirije a la utilización de estros metodo como lo son los metodos agiles, 
