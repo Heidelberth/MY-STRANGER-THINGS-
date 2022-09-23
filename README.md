@@ -17,6 +17,8 @@
 
 *[Estado del proyecto](#Estado-del-proyecto)
 
+* [Licencia](#licencia)
+
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
 *[Acceso al proyecto](#acceso-proyecto)
@@ -26,8 +28,6 @@
 *[Personas Contribuyentes](#personas-contribuyentes)
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
 
 *[Conclusión](#conclusión)
 
