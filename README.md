@@ -29,6 +29,7 @@
 
 
 
+
 *[Descripción del proyecto](#descripción-del-proyecto)
 
 La empresa INNOVA COLOMBIA, tendrá como nuevo proyecto, el nuevo diseño de la página en NETFLIX de la serie STRANGER THINGS, esto tiene como objetivo implementar nuevas ideas y metodologías agiles de desarrollo de software las cuales en la actualidad han generado mejores resultados en estos programas de inteligencia sistemática que son la nueva ola de presentación de entretenimiento para las generaciones actuales y antiguas, por tal razón el desarrollo de estos métodos agiles como lo es el método Scrum genera muchas facilidades como para los involucrados como los beneficiarios.
@@ -59,5 +60,29 @@ Aqui:
 
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
+
+En el proyecto se implementaron una de la muchas tecnologias modernas como lo son IDE,  NetBeans,Apache NetBeans, leguajes de programacion como JavaScript, C#, y leguajes de manejo de base de datos como SQL SERVE, MYSQL, como tambien la implementación d metodologias moderbas como MVC, metologias agiles, Y SCRUM.
+
+* NetBeans
+* Apache NetBeans
+* JavaScript
+* C#
+* SQL SERVER
+* MYSQL
+* MVC
+* Scrum
+
+
+*[Personas Contribuyentes](#personas-contribuyentes)
+
+Scrum Mataster
+
+Heidelberth Rocha Torres, 
+
+*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+
+Desarrollador 
+
+Heidelberth Rocha Torres
 
 
