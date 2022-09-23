@@ -4,7 +4,10 @@
  
 ![image](https://user-images.githubusercontent.com/112735999/191872746-a5b02b02-a98d-4cc2-8233-703096268f14.png)
 
-  
+![image](https://user-images.githubusercontent.com/112735999/192031786-e1c199fb-e5ec-47d3-9ae5-37e47d5fc7ae.png)
+
+
+
 Índice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
@@ -28,6 +31,7 @@
 *[Conclusión](#conclusión)
 
 *[Bibliografía](#bibliografía)
+
 
 
 
@@ -59,6 +63,7 @@ En la sigente URL, podras ver el video donde te explicara  cada una de las carac
 
 Aqui:
 
+https://youtu.be/TIooqQz3yoU
 
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
